@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999232013403",
+    "project_id": "pimpalgaonthote-15036",
+    "storage_bucket": "pimpalgaonthote-15036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999232013403:android:bc90d5a1dfa5fd6ca6ab7e",
+        "android_client_info": {
+          "package_name": "com.example.pimpalgaonthote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldz3vn3ZQbnB8rGAjoub5eO09AreGI2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999232013403:android:ed1cb0261e45e97aa6ab7e",
+        "android_client_info": {
+          "package_name": "com.example.sankar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldz3vn3ZQbnB8rGAjoub5eO09AreGI2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
